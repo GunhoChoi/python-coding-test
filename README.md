@@ -2,7 +2,9 @@
 
 ## 백준
 
-1. 단계별로 풀어보기(https://www.acmicpc.net/step)
+1. step 별로 풀어보기(https://www.acmicpc.net/step)
     - 2: 조건문
+        - 1330번
     - 3: 반복문 
     - 4: 1차원 배열
+        - 1546번
