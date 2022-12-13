@@ -31,3 +31,8 @@
 ### 문제 추천
 
 1. Covenant(https://covenant.tistory.com/224)
+    - 브론즈
+        - 2501 약수 구하기
+    - 실버
+        - 2581 소수
+    - 골드
